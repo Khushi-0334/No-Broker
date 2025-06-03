@@ -1,0 +1,21 @@
+body {
+  background-color: #fafafa;
+}
+
+.nav-tabs .nav-link.active {
+  border-bottom: 3px solid #f84e62;
+  color: #f84e62 !important;
+}
+
+.nav-tabs .nav-link {
+  border: none;
+}
+
+.btn-danger {
+  background-color: #f84e62;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #e94356;
+}
